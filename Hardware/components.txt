@@ -1,1 +1,15 @@
+=== WATER LEAK DETECTION SYSTEM - COMPONENTS LIST ===
 
+1. Arduino Uno R3 (or compatible)
+2. Water Level Sensor (conductive type)
+3. Tilt Switch / Vibration Sensor
+4. HC-SR04 Ultrasonic Sensor (optional)
+5. Active Buzzer
+6. RGB LED
+7. Resistors: 3x 220Ω, 1x 10kΩ
+8. Breadboard and jumper wires
+9. USB cable for power
+
+Total Cost: ~$25 USD
+Purpose: Early detection of water leaks in homes/industries
+Application: Mozambique residential and commercial use
